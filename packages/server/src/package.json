@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "esm": "^3.2.25"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
